@@ -1,7 +1,6 @@
 AWS GuardDuty Threat Detection Lab
 Domain: Cloud Security | Threat Detection | Incident Investigation
 Tools: Amazon GuardDuty · AWS CloudTrail · AWS S3 · AWS Console
-Difficulty: Beginner–Intermediate
 Date Completed: April 28, 2026
 
 Project Overview
